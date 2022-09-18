@@ -5,7 +5,7 @@ public class Hello {
         System.out.println("hello gi2");
         System.out.println("hello git4");
         System.out.println("hello git4");
-        System.out.println("hello push");
+        System.out.println("hello push0 ");
     }
 
 }
