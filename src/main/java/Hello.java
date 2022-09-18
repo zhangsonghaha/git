@@ -8,6 +8,8 @@ public class Hello {
         System.out.println("hello push");
         System.out.println("hello pull");
         System.out.println("111111");
+        System.out.println("111111");
+
     }
 
 }
